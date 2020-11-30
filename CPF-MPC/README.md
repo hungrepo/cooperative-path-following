@@ -12,6 +12,7 @@ Prerequisite: [Casadi](https://web.casadi.org/get/) for matlab (the tool to form
 
 For triangular formation,  
 - run MPC_CPF_5V_Strategy_I_Event_Straghtline_Delay.m
+
 For circular formation
 - run MPC_CPF_5V_Strategy_I_Event_Circle_Delay.m
 
