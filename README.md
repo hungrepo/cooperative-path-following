@@ -1,4 +1,4 @@
-# Coopeartive-path-following-of-multiple-autonomous-vehicles
+# Cooperative-path-following-of-multiple-autonomous-vehicles
 
-The codes are going to be published soon.
 
+This repo contain several cooperative path following (CPF) algorithms for multiple networked autonomous vehicles. 
