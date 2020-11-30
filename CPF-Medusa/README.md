@@ -1,6 +1,6 @@
 # Description
 
-This is CPF simulation developed for the cooperation of 3 Medusa vehicles at IST Lisbon. 
+This is simulation developed for the cooperative path following of multiple Medusa underwater autonomous vehicles (AUVs) at IST Lisbon. The simulation is set for 3 vehicles but there is no limit the number of vehicles used and it can be extended easily. This thanks to the fact that the cooperative path following algorithm is implemented in a distributed fashion.  
 
 # Installation (for the Simulation package)
 
