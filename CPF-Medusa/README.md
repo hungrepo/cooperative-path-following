@@ -2,7 +2,7 @@
 
 This is CPF simulation developed for 3 Medusa vehicle at IST Lisbon. 
 
-# Installation
+# Installation (for the Simulation package)
 
 - run initialization_3vehicles.m
 - run Real_three_Medusa_CPF_Event_Communication_For_Test
