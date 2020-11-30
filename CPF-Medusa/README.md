@@ -1,6 +1,6 @@
 # Description
 
-This is CPF simulation developed for 3 Medusa vehicle at IST Lisbon. 
+This is CPF simulation developed for the cooperation of 3 Medusa vehicles at IST Lisbon. 
 
 # Installation (for the Simulation package)
 
