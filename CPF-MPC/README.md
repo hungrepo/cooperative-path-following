@@ -11,15 +11,15 @@ See also the detail of the work here: https://nt-hung.github.io/research/coopera
 Prerequisite: [Casadi](https://web.casadi.org/get/) for matlab (the tool to formulate optimal control problem) 
 
 For triangular formation,  
-- run MPC_CPF_5V_Strategy_I_Event_Straghtline_Delay.m
+- run MPC_CPF_5V_Triangular.m
 
 For circular formation
-- run MPC_CPF_5V_Strategy_I_Event_Circle_Delay.m
+- run MPC_CPF_5V_Circular.m
 
-To plot the result
+To plot the results
 - run plotjournal_5vehicle.m
 
-**Note**: Because for every interaction, it solves 5 optimization problems (in 5 MPC controllers for 5 vehicles) so it takes a while to complete the simulation (but about 3 minutes for one)
+**Note**: For every interaction it solves 5 optimization problems (in 5 MPC controllers for the 5 vehicles) so it might take a while to complete the simulation (but just in few minutes)
 
 # Citation
 
