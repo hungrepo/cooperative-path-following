@@ -8,7 +8,11 @@ See also the detail of the work here: https://nt-hung.github.io/research/coopera
 
 # Installation
 
-Prerequisite: [Casadi](https://web.casadi.org/get/) for matlab (the tool to formulate optimal control problem) 
+**Prerequisite:** [Casadi](https://web.casadi.org/get/) for matlab (the tool to formulate optimal control problem) 
+
+- Clone/Download [Casadi](https://web.casadi.org/get/) from  https://web.casadi.org/get
+- Create a folder inside the Casadi package that you just downloaded.
+- Download the codes from this repo to the folder just created 
 
 For triangular formation,  
 - run MPC_CPF_5V_Triangular.m
