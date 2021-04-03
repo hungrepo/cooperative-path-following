@@ -25,8 +25,10 @@ For circular formation
 To plot the results
 - run plotjournal_5vehicle.m
 
-**Note**: For every interaction it solves 5 optimization problems (in 5 MPC controllers for the 5 vehicles) so it might take a while to complete the simulation (but just in few minutes)
+**Note**: 
 
+- For every interaction it solves 5 optimization problems (in 5 MPC controllers for the 5 vehicles) so it might take a while to complete the simulation (but just in 1,2 minutes)
+- In practice, the contractive constraint in the MPC scheme might be not neccessary. This can be done in the code, for example, in MPC_CPF_5V_Triangular.m, we can comment those lines in picture "InactivateContractiveConstraint.png". This will reduce the cost of computation and simulation time. But theoretically, stability is not guaranteed as long as the prediction horizon is chosen sufficiently long.
 # Citation
 
 If you use the code for your work and publication, please cite the paper with 
